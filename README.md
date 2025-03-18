@@ -90,3 +90,22 @@ Below are some screenshots of the project:
 
 ---
 
+## 🎨 JavaScript Features
+🔹 **Event Handling** – Click events are used for marking the grid.  
+🔹 **Win Checking Algorithm** – Checks rows, columns, and diagonals for a win.  
+🔹 **Dynamic Class Updates** – CSS classes change based on the player's turn.  
+🔹 **DOM Manipulation** – Updates game status messages dynamically.  
+
+---
+## 🔮 Future Improvements
+🚀 **Enhance UI** – Improve design and add animations.  
+🚀 **AI Player Mode** – Implement single-player mode with computer opponent.  
+🚀 **Leaderboard** – Track game history and player scores.  
+🚀 **Dark Mode** – Add a toggle for light/dark theme support.  
+
+---
+## 👩‍💻 Author
+**Avantika Shende**
+---
+## 📜 License
+This project is for educational purposes only and can be freely used and modified.  
