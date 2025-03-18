@@ -10,11 +10,11 @@ This is a simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**.
 ---
 
 ## 🎯 Features
-✅ **AI Player Mode** – A single-player mode with computer opponent.
+✅ **AI Player Mode** – A single-player mode with computer opponent.  
 ✅ **Dynamic UI Updates** – Board updates automatically after each move.  
 ✅ **Win Detection** – The game checks for a winner or a draw after every move.  
 ✅ **Restart Button** – Reset the game anytime with a single click.  
-✅ **Interactive Animations** – Smooth UI transitions for an engaging experience.  
+✅ **Interactive Animations** – Smooth UI transitions for an engaging experience.
 
 ---
 
