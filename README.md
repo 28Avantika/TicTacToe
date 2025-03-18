@@ -3,7 +3,7 @@
 ## 📝 Overview
 This is a simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. The project focuses on **JavaScript event handling** and UI functionality. 
 
--  The game allows two players to take turns marking their spots on a **3x3 grid**.  
+-  The game allows 1 User to take turns with the Computer marking their spots on a **3x3 grid**.  
 -  The winner is determined based on the classic Tic-Tac-Toe rules.  
 -  The UI is kept simple, with plans to enhance the design in the future.  
 
