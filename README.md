@@ -10,7 +10,7 @@ This is a simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**.
 ---
 
 ## 🎯 Features
-✅ **One-Player Mode** – Play with a computer on the same device.  
+✅ **AI Player Mode** – A single-player mode with computer opponent.
 ✅ **Dynamic UI Updates** – Board updates automatically after each move.  
 ✅ **Win Detection** – The game checks for a winner or a draw after every move.  
 ✅ **Restart Button** – Reset the game anytime with a single click.  
@@ -98,8 +98,7 @@ Below are some screenshots of the project:
 
 ---
 ## 🔮 Future Improvements
-🚀 **Enhance UI** – Improve design and add animations.  
-🚀 **AI Player Mode** – Implement single-player mode with computer opponent.  
+🚀 **Enhance UI** – Improve design and add animations.    
 🚀 **Leaderboard** – Track game history and player scores.  
 🚀 **Dark Mode** – Add a toggle for light/dark theme support.  
 
